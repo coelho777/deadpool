@@ -1,0 +1,42 @@
+.primeira{
+    height: 600px;
+    background-image: url(capa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+.primeira2{
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(119, 32, 43);
+    
+}
+.hh2{
+    background-color: rgb(221, 155, 3);
+    
+}
+.teste{
+    background-image: url(img1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.segunda{
+    width: 70%;
+    margin: 0 auto;
+   padding-top: 120px;
+   padding-bottom: 15px;
+}
+.terceira{
+    width: 70%;
+    margin: 0 auto;
+   text-align: justify;
+}
+.quarta{
+    width: 20%;
+    background-color: red;
+    text-align: center;
+    padding: 7px;
+    color: aliceblue;
+}
